@@ -7,13 +7,13 @@ U-Net 기반 의료영상 분할 연구, 클라우드 비전 실습 운영, 생�
 
 ## Projects
 
-| 프로젝트 | 주요 내용 | 기술 | 저장소 생성일 |
+| 프로젝트 | 주요 내용 | 기술 | 날짜 |
 | --- | --- | --- | --- |
 | [CallMate-AX](https://github.com/Yujin-J/AX_ARS) | 고객 문의의 의도·긴급도를 분석하고 담당 부서 연결, 상담사 브리핑, CRM 상담 일지 생성을 지원하는 AI 고객센터 프로토타입 | React, TypeScript, Express, Vertex AI Gemini, Google Cloud Run | 2026-05-23 |
 | [ST_CRM](https://github.com/Yujin-J/ST_CRM) | Firebase 고객·상담 데이터를 활용하는 CRM. 데이터 기반 AI 질의응답과 상담 분류·감정 점수 분석 | React, TypeScript, Refine, Firebase, Gemini 형식 API | 2025-01-03 |
-| [Parking System](https://github.com/Yujin-J/2022-cse-hackaton) | 초음파·RFID 입력으로 주차 상태를 판단하고 LED·부저로 표시하는 Arduino 프로토타입 | Arduino, C/C++, SPI, Sensors | 2025-05-02 |
+| [Arduino Parking System](https://github.com/Yujin-J/2022-cse-hackaton) | 초음파·RFID 입력으로 주차 상태를 판단하고 LED·부저로 표시하는 Arduino 프로토타입 | Arduino, C/C++, SPI, Sensors | 2022-09-25 |
 
-날짜는 GitHub 저장소 생성일(한국 시간) 기준이며, 실제 프로젝트 수행 시기와 다를 수 있습니다.
+Arduino Parking System은 프로젝트 날짜이며, 나머지는 GitHub 저장소 생성일(한국 시간) 기준입니다.
 
 ## Experience & Interests
 
