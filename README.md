@@ -10,10 +10,10 @@
 | 활동 | 담당 내용 | 관련 기술·도구 | 날짜 |
 | --- | --- | --- | --- |
 | [ST_CRM](https://github.com/Yujin-J/ST_CRM) | GPT·Gemini 연동, Firebase 고객·상담 데이터 기반 챗봇 기능 구현 | React, TypeScript, Firebase, GitHub | 2025-01-03¹ |
-| [닷넷걸즈 Codespaces 한글화](https://github.com/dotnetgirls/codespaces-project-template-dotnet/pull/2) | .NET Codespaces 교육 자료의 도전과제 섹션 한국어 번역 및 후속 문장·용어 수정 | GitHub Pull Requests, Markdown, Codespaces, .NET 문서 | 2024-03-13² |
+| [Codespaces 교육 자료 한국어 번역](https://github.com/dotnetgirls/codespaces-project-template-dotnet/pull/2) | .NET Codespaces 교육 자료의 도전과제 섹션 한국어 번역 및 후속 문장·용어 수정 | GitHub Pull Requests, Markdown, Codespaces, .NET 문서 | 2024-03-13² |
 
 ¹ ST_CRM은 GitHub 저장소 생성일(한국 시간)입니다.  
-² 닷넷걸즈는 아래 번역·후속 수정 PR의 병합일입니다.
+² Codespaces 항목은 아래 번역·후속 수정 PR의 병합일입니다.
 
 ## ST_CRM — 팀 프로젝트
 
@@ -25,7 +25,7 @@
 
 [챗봇 코드](https://github.com/Yujin-J/ST_CRM/blob/main/src/chatbot/Chatbot.tsx) · [데이터 조회 코드](https://github.com/Yujin-J/ST_CRM/blob/main/src/helpers/firebase/firestoreHelpers.ts) · [팀 PR·병합 이력](https://github.com/Yujin-J/ST_CRM/pulls?q=is%3Apr+is%3Amerged)
 
-## 닷넷걸즈 — Codespaces 교육 자료 한국어 번역
+## Codespaces 교육 자료 한국어 번역
 
 `dotnetgirls/codespaces-project-template-dotnet`의 README에서 **도전과제 섹션**을 한국어로 번역하고, 후속 PR로 문장과 용어를 다듬었습니다. Codespaces 사용자 정의, 부드러운 스크롤, 이미지 애니메이션, 새 섹션 추가 등의 실습 안내를 다뤘습니다.
 
