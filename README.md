@@ -17,7 +17,7 @@ U-Net 기반 의료영상 분할 연구, 클라우드 비전 실습 운영, 생�
 ## Experience & Interests
 
 - **AI / CV Research** — U-Net 기반 의료영상 분할 연구 경험.
-- **AI Service Integration** — 이미지 생성 API와 CRM 데이터 기반 AI 기능을 웹 서비스에 연결.
+- **AI Service Integration** — HairMatch에서 생성형 AI 기반 헤어 이미지 생성 기능 적용. ST_CRM에서 GPT·Gemini 연동 및 Firebase 고객·상담 데이터 기반 챗봇 기능 구현.
 - **Technical Community** — Microsoft Learn Student Ambassadors 활동에서 Custom Vision 체험 부스를 운영하고 실습을 안내.
 - **Software & Sensors** — 웹 애플리케이션과 센서 입력을 처리하는 소프트웨어 프로젝트.
 
